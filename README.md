@@ -27,8 +27,8 @@ Keep `index.html` and the `assets` folder together, then open `index.html` in a 
 - `assets/ccba-logo.png` - CCBA logo
 - `assets/CCBA_Q3_2026_Commercial_Business_Review_PreRead.docx` - Word exercise
 - `assets/CCBA_Q3_2026_Sales_Revenue_Tracker.xlsx` - Excel exercise
-- `assets/CCI_Packaging_Supplier_Agreement_DEMO.docx` - Legal Agent supplier agreement
-- `assets/CCI_Procurement_Legal_Playbook_DEMO.docx` - Legal Agent review playbook
+- `assets/CCBA_Packaging_Supplier_Agreement_DEMO.docx` - Legal Agent supplier agreement
+- `assets/CCBA_Procurement_Legal_Playbook_DEMO.docx` - Legal Agent review playbook
 
 ## Access
 
